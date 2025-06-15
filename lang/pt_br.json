@@ -1,0 +1,117 @@
+{
+        "ping": [
+                "Pong!",
+                "**PONG! {bot_nick}** acerta a bola no rosto de **{author}!**",
+                "Ping!",
+                "Pling!",
+                "Dink! A bola derruba o copo de limonada de **{bot_nick}**.",
+                "\\*ping\\*. **{bot_nick}** toca na bola, que roça na rede e cai do lado de **{author}**.",
+                "Pling! A bola acerta o peito de **{author}** e ele cai dramaticamente.",
+                "Pong! A bola é lançada contra a parede, longe da mesa.",
+                "Um erro enviou um ping e recebeu um pong.",
+                "PING! **{author}**",
+                "Você quis dizer **{p}ping**?",
+                "{bot_nick}.exe parou de responder. O Windows está procurando uma solução..."
+        ],
+        "maxplayers": [
+                "O número máximo de jogadores ({0}) já entrou na partida.",
+                "Não há espaço para você entrar neste jogo. Já existem {0} jogadores no lobby."
+        ],
+        "minplayers": [
+                "Por favor, espere até que haja pelo menos {0} jogadores.",
+                "Você não pode iniciar o jogo até que haja pelo menos {0} jogadores."
+        ],
+        "notplayingstart": [
+                "Você não está jogando, então não pode iniciar a partida! Digite `{p}join` para entrar."
+        ],
+        "notplayingleave": [
+                "Você não pode sair de um jogo que não está jogando!"
+        ],
+        "alreadyin": [
+                "Você já está jogando!",
+                "Você já entrou!"
+        ],
+        "leavelobby": [
+                "**{0}** saiu do jogo. Agora há **{1}** jogadores no lobby.",
+                "**{0}** saiu do lobby. Agora há **{1}** jogadores no lobby.",
+                "**{0}** levou dois tiros de um caçador, um na cabeça e outro no coração. Jogadores restantes: **{1}**",
+                "**{0}** cutucou um urso no olho com um graveto e pagou o preço. Jogadores restantes: **{1}**",
+                "**{0}** foi atingido por um enorme projétil amarelo de um tanque gigante. Os **{1}** jogadores restantes se encolhem de medo."
+        ],
+        "gamestart": [
+                "**{0}** iniciou uma partida de Werewolf. Digite `{p}join` para entrar. Digite `{p}start` para começar.",
+                "**{0}** iniciou uma partida de Werewolf. Digite `{p}start` para começar. Digite `{p}join` para entrar."
+        ],
+        "nokills": [
+                "Os aldeões descobrem o corpo de um amado pinguim de estimação, mas felizmente ninguém foi ferido.",
+                "Os aldeões descobrem o corpo de um amado cachorro de estimação, mas felizmente ninguém foi ferido.",
+                "Os aldeões descobrem o corpo de um amado gato de estimação, mas felizmente ninguém foi ferido.",
+                "Pegadas e tufos de pelo são encontrados circulando a aldeia, mas todos parecem ilesos.",
+                "Algumas portas de casas foram abertas.",
+                "Um cheiro parecido com o de lobo permeia o ar.",
+                "Dejetos de lobo meio enterrados são encontrados.",
+                "Vestígios de pelo de lobo são encontrados."
+        ],
+        "lynched": [
+                "Os aldeões decidiram linchar **{0}**, que era um **{1}**.",
+                "Os aldeões fazem uma cirurgia para obter o coração de **{0}**, agora reconhecido como **{1}**. Eles o colocam em um copo plástico.",
+                "Os aldeões fazem uma cirurgia para obter o cérebro de **{0}**, agora reconhecido como **{1}**. Eles o colocam em um pote de vidro.",
+                "Relutantemente, os aldeões conduzem **{0}** ao cadafalso, sendo depois revelado como **{1}**.",
+                "Os aldeões sacrificam **{0}** ao deus belunga, que fica satisfeito com o **{1}** por enquanto.",
+                "Para a CIÊNCIA, os aldeões jogam **{0}** em um vulcão. Descobrem que o ponto de fusão de um **{1}** é menor que o da lava.",
+                "Os aldeões obrigam **{0}** a jogar roleta russa. A praça fica manchada com os restos do **{1}**.",
+                "Após muito debate, os aldeões decidem finalmente linchar **{0}**, que acabou sendo... um **{1}**.",
+                "Após uma longa luta, **{0}** é levado ao cadafalso e, depois de morto, descoberto como **{1}**.",
+                "Os aldeões escolhem enforcar **{0}**; contudo, a corda se estica e se rompe, e a queda mata o **{1}**."
+        ],
+        "lynchednoreveal": [
+                "Os aldeões decidiram linchar **{0}**.",
+                "Os aldeões fazem uma cirurgia para obter o coração de **{0}**. Eles o colocam em um copo plástico.",
+                "Os aldeões fazem uma cirurgia para obter o cérebro de **{0}**. Eles o colocam em um pote de vidro.",
+                "Relutantemente, os aldeões conduzem **{0}** ao cadafalso.",
+                "Os aldeões sacrificam **{0}** ao deus belunga, que fica satisfeito com a oferenda por enquanto.",
+                "Para a CIÊNCIA, os aldeões jogam **{0}** em um vulcão. Descobrem que seu ponto de fusão é menor que o da lava.",
+                "Os aldeões obrigam **{0}** a jogar roleta russa. A praça fica manchada com seus restos.",
+                "Após muito debate, os aldeões decidem finalmente linchar **{0}**.",
+                "Após uma longa luta, **{0}** é levado ao cadafalso.",
+                "Os aldeões escolhem enforcar **{0}**; contudo, a corda se estica e se rompe, e a queda o mata."
+        ],
+        "hastotem": [
+                "**{0}** está de posse de um totem misterioso..."
+        ],
+        "hastotem2": [
+                "**{0}** e **{1}** estão de posse de um totem misterioso..."
+        ],
+        "hastotems": [
+                "**{0}** e **{1}** estão de posse de um totem misterioso..."
+        ],
+        "leavedeath": [
+                "**{0}** sofreu combustão espontânea. O ar cheira a **{1}** recém queimado.",
+                "Usando um chapéu triangular vermelho, **{0}**, um **{1}**, levou um tiro fatal de um caçador.",
+                "Usando um chapéu quadrado amarelo, **{0}**, um **{1}**, foi atropelado por um tanque.",
+                "Usando um chapéu pentagonal azul, **{0}**, um **{1}**, foi destruído por um canhão gigante.",
+                "Usando um chapéu pentagonal azul enorme, **{0}**, um **{1}**, foi aniquilado por um morteiro gigantesco.",
+                "Após entrar em um tanque, **{0}** se afogou. Os peixes devoraram o corpo do **{1}** morto.",
+                "**{0}** desapareceu misteriosamente na floresta. Ninguém sabe para onde o **{1}** foi.",
+                "De pé sob uma árvore, **{0}**, um **{1}**, foi morto por um galho que caiu.",
+                "**{0}**, um **{1}**, foi morto por um raio diante dos olhos dos aldeões. O ar cheira a carne queimada.",
+                "Avançando pela aldeia, um touro chifra **{0}**, um **{1}**.",
+                "**{0}**, um **{1}**, caiu em um tonel de melaço e se afogou."
+        ],
+        "leavedeathnoreveal": [
+                "**{0}** sofreu combustão espontânea. O ar cheira a carne recém queimada.",
+                "Usando um chapéu triangular vermelho, **{0}** levou um tiro fatal de um caçador.",
+                "Usando um chapéu quadrado amarelo, **{0}** foi atropelado por um tanque.",
+                "Usando um chapéu pentagonal azul, **{0}** foi destruído por um canhão gigante.",
+                "Usando um chapéu pentagonal azul enorme, **{0}** foi aniquilado por um morteiro gigantesco.",
+                "Após entrar em um tanque, **{0}** se afogou. Os peixes devoraram o corpo.",
+                "**{0}** desapareceu misteriosamente na floresta. Ninguém sabe para onde foi.",
+                "De pé sob uma árvore, **{0}** é morto por um galho que caiu.",
+                "**{0}** morreu atingido por um raio diante dos olhos dos aldeões. O ar cheira a carne queimada.",
+                "Avançando pela aldeia, um touro chifra **{0}**.",
+                "**{0}** caiu em um tonel de melaço e se afogou."
+        ],
+        "firstjoin": [
+                "**{0}** iniciou um jogo de Werewolf. Digite `{p}join` para entrar. Digite `{p}start` para começar a partida."
+        ]
+}
